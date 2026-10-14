@@ -24,27 +24,19 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Enhoy Chakma"
+  pronouns         : "he/him"  
+  bio              : "Hydrology | Climate Change Adaptations | Wetlands | Floods"
+  location         : "Changini, Kotbari, Cumilla, Bangladesh"
+  employer         : "CCN University of Science and Technology"
+  uri              : "enjoychakma.github.io"
+  email            : "enjoy.civil@ccnust.ac.bd" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=pyYbhPEAAAAJ&view_op=list_works&gmla=ACrTK9UWpzEu1w9ENGWPWEA79uQsRjmLLn6Vk0TSjZ1qZoiaYld8qw9vSuOKAjXPNmsekdQ4_Py0rdSk3VauNBF-"
+  orcid            : "https://orcid.org/0009-0009-5294-0516"
+  researchgate     : "https://www.researchgate.net/profile/Enjoy-Chakma-3?ev=hdr_xprf"
+
 
 
   # Repositories and software development
@@ -89,7 +81,10 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'S. Hossain, P. Chowdhury, Y. M. A. Aziz, E. Chakma, and D. A. Lina "Assessment and analysis of Noise Level in Chattogram City Corporation Area," in Proc. 8th Int. Conf. Civil Eng Technology. (ICCEI 2025), Rajshahi, Bangladesh, Dec. 12– 14, 2025. '
+    title: 'P. Chowdhury, S. Hossain, E. Chakma, and D. A. Lina, "Water quality evaluation of Dakatia River," in 
+Proc. 7th Int. Conf. Adv. Civil Eng. (ICACE2024), Chattogram, Bangladesh, Dec. 12- 
+14, 2024, pp. 809–816.'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
